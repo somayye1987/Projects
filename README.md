@@ -17,9 +17,10 @@ In order to complete this challenge, you will need the following libraries:
 
 ## Analytical Approach
 In order to derive meaningful insights, I made the choice to classify the dataset into two distinct categories:
-    Airport Rides: This category includes rides that are specifically related to airports. These rides typically involve transportation to or from airports, such as trips to catch flights or journeys from airports to the city.
+    
+1. Airport Rides: This category includes rides that are specifically related to airports. These rides typically involve transportation to or from airports, such as trips to catch flights or journeys from airports to the city.
 
-    City Rides: This category encompasses rides that occur within the city limits. These rides primarily involve transportation within the urban areas, such as commuting to work, running errands, or exploring the city's attractions.
+2. City Rides: This category encompasses rides that occur within the city limits. These rides primarily involve transportation within the urban areas, such as commuting to work, running errands, or exploring the city's attractions.
     
 * In the "taxi_airport" file, my objective was to conduct a detailed analysis and comparison of various aspects, including trip duration, trip distance, and other relevant features. However, this analysis specifically focused on rides that either originate from or terminate at airports.
 * In the "taxi_city" file, my aim was to analyze and compare various aspects such as trip duration, trip distance, and other relevant features from different perspectives.However, this analysis specifically concentrated on rides that occurred exclusively within the city.
